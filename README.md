@@ -7,3 +7,5 @@
 * [schiz](https://github.com/victorhuang1)
 
 * [Karding](https://github.com/BowenChenbm)
+
+* [澜心飞嗨](https://github.com/molandao)
